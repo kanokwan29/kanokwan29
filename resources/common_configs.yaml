@@ -1,0 +1,5 @@
+Order_host: https://order-pizza-api.herokuapp.com/api
+create_order_url: orders
+Delete_order_url: orders
+Token_host: https://order-pizza-api.herokuapp.com/api
+Token_url: auth
